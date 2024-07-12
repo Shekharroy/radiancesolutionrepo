@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/css/main.ff269730.css",
-    "main.js": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/js/main.22e81346.js",
-    "static/js/453.a8e3b47a.chunk.js": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/js/453.a8e3b47a.chunk.js",
-    "static/media/fa-solid-900.ttf": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
-    "static/media/fa-brands-400.ttf": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
-    "static/media/fa-solid-900.woff2": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
-    "static/media/fa-brands-400.woff2": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
-    "static/media/fa-regular-400.ttf": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
-    "static/media/fa-regular-400.woff2": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
-    "static/media/fa-v4compatibility.ttf": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
-    "static/media/fa-v4compatibility.woff2": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
-    "index.html": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/index.html",
-    "main.ff269730.css.map": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/css/main.ff269730.css.map",
-    "main.22e81346.js.map": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/js/main.22e81346.js.map",
-    "453.a8e3b47a.chunk.js.map": "/Shekharroy/radiancesolutionrepo.github.io/react-gh-pages/static/js/453.a8e3b47a.chunk.js.map"
+    "main.css": "/Shekharroy.github.io/react-gh-pages/static/css/main.e9bc00a6.css",
+    "main.js": "/Shekharroy.github.io/react-gh-pages/static/js/main.1ce1d621.js",
+    "static/js/453.a8e3b47a.chunk.js": "/Shekharroy.github.io/react-gh-pages/static/js/453.a8e3b47a.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Shekharroy.github.io/react-gh-pages/static/media/fa-solid-900.bacd5de623fb563b961a.ttf",
+    "static/media/fa-brands-400.ttf": "/Shekharroy.github.io/react-gh-pages/static/media/fa-brands-400.60127e352b7a11f7f1bc.ttf",
+    "static/media/fa-solid-900.woff2": "/Shekharroy.github.io/react-gh-pages/static/media/fa-solid-900.4d986b00ff9ca3828fbd.woff2",
+    "static/media/fa-brands-400.woff2": "/Shekharroy.github.io/react-gh-pages/static/media/fa-brands-400.455ea818179b4def0c43.woff2",
+    "static/media/fa-regular-400.ttf": "/Shekharroy.github.io/react-gh-pages/static/media/fa-regular-400.eb91f7b948a42799f678.ttf",
+    "static/media/fa-regular-400.woff2": "/Shekharroy.github.io/react-gh-pages/static/media/fa-regular-400.21cb8f55d8e0c5b89751.woff2",
+    "static/media/fa-v4compatibility.ttf": "/Shekharroy.github.io/react-gh-pages/static/media/fa-v4compatibility.c8e090db312b0bea2aa2.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Shekharroy.github.io/react-gh-pages/static/media/fa-v4compatibility.cf7f5903d06b79ad60f1.woff2",
+    "index.html": "/Shekharroy.github.io/react-gh-pages/index.html",
+    "main.e9bc00a6.css.map": "/Shekharroy.github.io/react-gh-pages/static/css/main.e9bc00a6.css.map",
+    "main.1ce1d621.js.map": "/Shekharroy.github.io/react-gh-pages/static/js/main.1ce1d621.js.map",
+    "453.a8e3b47a.chunk.js.map": "/Shekharroy.github.io/react-gh-pages/static/js/453.a8e3b47a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff269730.css",
-    "static/js/main.22e81346.js"
+    "static/css/main.e9bc00a6.css",
+    "static/js/main.1ce1d621.js"
   ]
 }
